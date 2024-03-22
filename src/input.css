@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities; 
+
+@media (min-width: 65px) and (max-width: 640px){
+    #profile
+    {
+        display: none;
+    }
+}
